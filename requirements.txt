@@ -2,3 +2,4 @@ streamlit
 spacy
 newspaper3k
 requests
+cython
